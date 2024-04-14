@@ -39,7 +39,7 @@ int main(int argc, char const *argv[]){
     char strBin[50] = "bin/";
     
     /*------------------------->    Saida por Arquivo   <-------------------------*/
-    if (argc >= 1 ){
+    if (argc >= 2 ){
 
 
         // Copia a posição 1 do argv para a entrada, que e o nome do arquivo de entrada

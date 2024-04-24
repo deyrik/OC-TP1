@@ -463,3 +463,16 @@ void montarBinario(char * str, char **bin) {
 
     montadorBinario(comando, p1, p2, p3, bin);
 }
+
+
+
+
+
+//novos
+
+
+void confereBin(){}
+
+void conereHexadecimal(){}
+
+void confereDecimal(){}
